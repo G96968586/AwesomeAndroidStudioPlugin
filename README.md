@@ -20,6 +20,8 @@
 [ADB Idea](https://github.com/pbreault/adb-idea) | [下载](http://plugins.jetbrains.com/plugin/7380?pr=idea) | 一个将ADB操作可视化的插件，具体可以用它启动App、清除数据等
 [FIRPlugin](https://github.com/FIRHQ/FIR_Plugin_Android) | [下载](https://plugins.jetbrains.com/plugin/7640?pr=androidstudio) | 一键上传应用到fir.im，关于[Fir](http://fir.im)
 
+[Codegenerator-Plugin-Intellij](https://github.com/tmorcinek/android-codegenerator-plugin-intellij) | [下载](https://github.com/tmorcinek/android-codegenerator-plugin-intellij) | 由xml layout自动生成Fragment、ViewHolder、Activity等，免去写findViewById的问题
+
 ####附录
 * 从本地安装插件
 <br>
